@@ -1,6 +1,7 @@
 class student{
-  int id;
+ int id;
 string gender;
 double rate;
-
+string name:
+double fee;
 }
