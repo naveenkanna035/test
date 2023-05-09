@@ -5,3 +5,5 @@ welcome
 india
 UK
 USA
+USSR
+AUS
